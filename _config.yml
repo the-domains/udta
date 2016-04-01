@@ -1,19 +1,4 @@
-name: udta
-favicon: null
-layout_spectrum: 0.02501341258175671
-typography_spectrum: 0.9464256360661238
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#3C493F'
@@ -23,6 +8,11 @@ color:
     - '#A2E3C4'
   brandStrength: 0.7996009190101177
   lightness: 0.8872552586253732
-  saturation: 0.3881022322457284
   rhythmicContrast: 0.543600567849353
+  saturation: 0.3881022322457284
+cta: {}
+layout_spectrum: 0.02501341258175671
+name: udta
+opengraph: {}
 purpose: []
+typography_spectrum: 0.9464256360661238
